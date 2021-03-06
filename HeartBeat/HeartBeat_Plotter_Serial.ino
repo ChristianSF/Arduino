@@ -1,4 +1,5 @@
 // Link do projeto: https://create.arduino.cc/projecthub/Johan_Ha/from-ky-039-to-heart-rate-0abfca
+// Autor: Johan_Ha
 
 #define samp_siz 4
 #define rise_threshold 4
